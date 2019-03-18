@@ -1,1 +1,3 @@
-# Archivo de doumentación
+# Archivo de documentación
+
+Documentacion realizada por Waide
