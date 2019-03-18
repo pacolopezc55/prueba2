@@ -1,3 +1,3 @@
 # Archivo de documentación
 
-Documentacion realizada por Waide
+Documentacion realizada por Aitor Tilla
